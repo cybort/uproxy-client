@@ -1,2 +1,1 @@
-# uproxy-client
-uProxy client downloads
+# uProxy Client Downloads
