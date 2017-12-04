@@ -4,10 +4,8 @@ To install the latest version of uProxy, follow the instructions for your platfo
 
 ## Windows 7+
 
-1. Choose the correct download based on whether you have 32-bit or 64-bit Windows:
-  - [uProxy-ia32.exe (32-bit)](https://github.com/uProxy/uproxy-client/raw/master/releases/windows/uProxy-ia32.exe)
-  - [uProxy-x64.exe (64-bit)](https://github.com/uProxy/uproxy-client/raw/master/releases/windows/uProxy-x64.exe)
-2. Find the file you just downloaded and run it to install uProxy.
+Download and run the installer:
+https://github.com/uProxy/uproxy-client/raw/master/releases/windows/uProxy.exe
 
 ## Android 5+
 
